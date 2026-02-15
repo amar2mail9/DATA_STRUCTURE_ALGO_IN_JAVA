@@ -7,7 +7,5 @@ public class VariablesBasics {
         int y = 10;
         System.out.println("Value of Y : " + y);
 
-        double zcd;
-
     }
 }
